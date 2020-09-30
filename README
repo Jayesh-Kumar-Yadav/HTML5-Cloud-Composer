@@ -18,3 +18,4 @@ Scroll Sheet Music - move the slider from left to right to horizontally scroll t
 
 Play Audio - If your browser is Firefox 4+ or a version of Chrome with the web audio api enabled you should see a play audio button in the app for playing the audio for the composed score. If your browser does not support the new audio apis then the play audio button will be hidden.
 
+Thank You!
